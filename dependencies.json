@@ -6,7 +6,7 @@
             "mdpopups",
             "python-jinja2",
             "markupsafe",
-            "yaml"
+            "pyyaml"
         ]
     }
 }
